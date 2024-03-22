@@ -3,7 +3,6 @@
 //  ExtensionExampleApp
 //
 //  Copyright (c) 2024 Minii All rights reserved.
-        
 
 import UIKit
 
@@ -23,4 +22,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     return UISceneConfiguration(name: "Default Configuration", sessionRole: connectingSceneSession.role)
   }
 }
-
